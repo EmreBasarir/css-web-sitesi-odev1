@@ -1,0 +1,35 @@
+.center {
+    text-align: center;
+}
+
+.list-center {
+    list-style-position: inside;
+}
+
+.text-green {
+    color:green;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
+
+.fs-22 {
+    font-size: 22px;
+}
+
+.fs-14 {
+    font-size:14px;
+}
+
+.space {
+    word-spacing:5px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.bgcolor{
+    background-color:#DCD7C9;
+}
